@@ -1,2 +1,2 @@
 # Stack
-A stack Implementation in C
+A stack implementation in C
